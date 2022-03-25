@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "sansblack";
+  src: url("fonts/EncodeSans-Black.ttf") format("ttf");
+}
+h1 {
+  font-family: "sansblack";
+}
