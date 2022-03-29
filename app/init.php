@@ -1,5 +1,6 @@
 <?php
 
 require_once "core/Apps.php";
-require_once "core/Controllers.php";
-require_once "core/Constend.php";
+require_once "core/Controller.php";
+require_once "config/config.php";
+require_once "core/Database.php";
