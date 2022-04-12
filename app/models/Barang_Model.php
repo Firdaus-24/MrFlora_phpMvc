@@ -2,7 +2,7 @@
 
 class Barang_Model
 {
-    private $table = 'fr_barang';
+    private $table = 'barang';
     private $db;
     public function __construct()
     {
